@@ -2,7 +2,7 @@ package day01;
 
 public class firstProgramme {
 
-    public static void main (String[] args){
+    public static void main (String[] Args){
 
         //first java programme
 
