@@ -7,5 +7,6 @@ public class firstProgramme {
         //first java programme
 
         System.out.print("hello world!");
+        System.out.print("this is small change ");
     }
 }
